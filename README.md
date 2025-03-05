@@ -15,6 +15,6 @@ I created the following queries to retrieve relevant information for the databas
 5) List the best recorded performance for each exercise for a specific user.
 
 To optimize query performance, the following indexes have been implemented:
-index_results_exercisesInWorkout: Speeds up searches for exercise results.
-index_exercisesInWorkout: Optimizes lookups of exercises within workouts.
+- index_results_exercisesInWorkout: Speeds up searches for exercise results.
+- index_exercisesInWorkout: Optimizes lookups of exercises within workouts.
       
